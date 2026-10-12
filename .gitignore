@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+# Capturas y audio usados solo en las pruebas locales.
+/fase-*.png
+/tono-prueba.wav
